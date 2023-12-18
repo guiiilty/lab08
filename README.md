@@ -86,11 +86,4 @@ print(dog_fact)
 ```
 #### Ссылки на используемые материалы:
 - https://evil-teacher.on.fleek.co/prog_pm/lab08/
-- https://gpt-open.ru/programmist
-
-
-
-
-
-
-# lab08
+- https://gpt-open.ru/programmist 
